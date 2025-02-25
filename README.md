@@ -1,2 +1,3 @@
 # kintergarden
-Tool to build Tkinter and Tkinter.ttk GUI a bit more easily
+
+TKinter UI construction tool to build responsive, easy-to-change and easy-to-integrate UI
